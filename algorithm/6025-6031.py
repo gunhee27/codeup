@@ -28,4 +28,8 @@ print(a)
 
 #6031
 a = int(input())
+<<<<<<< HEAD
 print("%c" % a)
+=======
+print("%c" % a)
+>>>>>>> 5882df8901b2ad2681d1aa141107c705868c0e54
